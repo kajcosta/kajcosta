@@ -26,7 +26,12 @@ Nas horas vagas, me aventuro como **ilustradora**, criando personagens e cenári
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=kajcosta&show_icons=true&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kajcosta&theme=radical)
 
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kajcosta/kajcosta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kajcosta/kajcosta/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kajcosta/kajcosta/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
