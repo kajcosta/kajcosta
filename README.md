@@ -6,9 +6,9 @@ Atualmente, estudo **Engenharia de Software** na **Anhanguera**, onde estou expl
 
 Nas horas vagas, me aventuro como **ilustradora**, criando personagens e cenários inspirados em literatura e animes. Além disso, trabalho na **área de dados** e participo de **projetos acadêmicos e pessoais**, sempre em busca de aprender e compartilhar conhecimento.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CAFFBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanycostaa)
-[![Insta Desenho](https://img.shields.io/badge/Instagram%20Desenho-FFC8DD?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/SEU_INSTA_DESENHO](https://www.instagram.com/estantedesenhada?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
-[![Insta Pessoal](https://img.shields.io/badge/Instagram%20Pessoal-BDE0FE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kajj_c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F24194?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanycostaa)
+[![Insta Desenho](https://img.shields.io/badge/Instagram%20Desenho-F2C849?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estantedesenhada?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![Insta Pessoal](https://img.shields.io/badge/Instagram%20Pessoal-99E5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kajj_c)
 
 ## Linguagens e Tecnologias 
 <div>
@@ -21,3 +21,9 @@ Nas horas vagas, me aventuro como **ilustradora**, criando personagens e cenári
     <img src="/icons/javascript.svg" width="40" title="JavaScript"/>
     <img src="/icons/krita.png" width="40" title="Krita"/>
 </div>
+
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=kajcosta&show_icons=true&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kajcosta&theme=radical)
+
+
