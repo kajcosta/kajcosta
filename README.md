@@ -1,10 +1,12 @@
 # Kauany de Jesus Costa
 **` Desenvolvedora Back end e Ilustradora`**
 
-Olá! Me chamo **Kauany**, tenho 20 anos e sou natural de **Carapicuíba/SP**.  
-Atualmente, estudo **Engenharia de Software** na **Anhanguera**, onde estou explorando cada vez mais o mundo da programação e do desenvolvimento de sistemas.  
+Olá! Me chamo Kauany, tenho 20 anos e sou natural de Carapicuíba/SP.
+Atualmente, estudo Engenharia de Software na Anhanguera, mergulhando cada vez mais no mundo da programação e do desenvolvimento de sistemas.
 
-Nas horas vagas, me aventuro como **ilustradora**, criando personagens e cenários inspirados em literatura e animes. Além disso, trabalho na **área de dados** e participo de **projetos acadêmicos e pessoais**, sempre em busca de aprender e compartilhar conhecimento.
+Trabalho na área de dados, onde tenho a oportunidade de aprender sobre diversas tecnologias e práticas do setor.
+
+Nas horas vagas, me aventuro como ilustradora, criando personagens e cenários inspirados em literatura e animes. Também participo de projetos acadêmicos e pessoais, sempre em busca de aprender, experimentar e compartilhar conhecimento.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F24194?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanycostaa)
 [![Insta Desenho](https://img.shields.io/badge/Instagram%20Desenho-F2C849?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estantedesenhada?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
