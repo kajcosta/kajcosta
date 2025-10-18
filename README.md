@@ -20,7 +20,7 @@ Nas horas vagas, me aventuro como **ilustradora**, criando personagens e cenári
   <img src="/icons/html.svg" width="40" title="HTML" style="margin:5px;">
   <img src="/icons/javascript.svg" width="40" title="JavaScript" style="margin:5px;">
   <img src="/icons/krita.png" width="40" title="Krita" style="margin:5px;">
-  <img src="/icons/figma.svg" width="30" title="Figma" style="margin:5px;">
+  <img src="/icons/figma.svg" width="25" title="Figma" style="margin:5px;">
 </div>
 
 
