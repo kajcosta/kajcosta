@@ -11,17 +11,18 @@ Nas horas vagas, me aventuro como **ilustradora**, criando personagens e cenári
 [![Insta Pessoal](https://img.shields.io/badge/Instagram%20Pessoal-99E5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kajj_c)
 
 ## Linguagens e Tecnologias 
-<div>
-    <img src="/icons/java.svg" width="40" title="Java"/>
-    <img src="/icons/python.svg" width="40" title="Python"/>
-    <img src="/icons/sql.svg" width="40" title="SQL"/>
-    <img src="/icons/databricks.svg" width="40" title="Databricks"/>
-    <img src="/icons/css.svg" width="40" title="CSS"/>
-    <img src="/icons/html.svg" width="40" title="HTML"/>
-    <img src="/icons/javascript.svg" width="40" title="JavaScript"/>
-    <img src="/icons/krita.png" width="40" title="Krita"/>
-    <img src="/icons/figma.svg"width="40" title="Figma">
+<div align="center" style="background:white; padding:10px; border-radius:12px;">
+  <img src="/icons/java.svg" width="40" title="Java" style="margin:5px;">
+  <img src="/icons/python.svg" width="40" title="Python" style="margin:5px;">
+  <img src="/icons/sql.svg" width="40" title="SQL" style="margin:5px;">
+  <img src="/icons/databricks.svg" width="40" title="Databricks" style="margin:5px;">
+  <img src="/icons/css.svg" width="40" title="CSS" style="margin:5px;">
+  <img src="/icons/html.svg" width="40" title="HTML" style="margin:5px;">
+  <img src="/icons/javascript.svg" width="40" title="JavaScript" style="margin:5px;">
+  <img src="/icons/krita.png" width="40" title="Krita" style="margin:5px;">
+  <img src="/icons/figma.svg" width="40" title="Figma" style="margin:5px;">
 </div>
+
 
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=kajcosta&show_icons=true&theme=radical)
