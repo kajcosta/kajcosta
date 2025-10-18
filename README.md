@@ -11,7 +11,7 @@ Nas horas vagas, me aventuro como **ilustradora**, criando personagens e cenári
 [![Insta Pessoal](https://img.shields.io/badge/Instagram%20Pessoal-99E5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kajj_c)
 
 ## Linguagens e Tecnologias 
-<div align="center" style="background:white; padding:10px; border-radius:12px;">
+<div>
   <img src="/icons/java.svg" width="40" title="Java" style="margin:5px;">
   <img src="/icons/python.svg" width="40" title="Python" style="margin:5px;">
   <img src="/icons/sql.svg" width="40" title="SQL" style="margin:5px;">
