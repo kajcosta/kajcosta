@@ -14,13 +14,13 @@ Nas horas vagas, me aventuro como ilustradora, criando personagens e cenários i
 
 ## Linguagens e Tecnologias 
 <div>
-  <img src="/icons/java.svg" width="40" title="Java" style="margin:5px;">
-  <img src="/icons/python.svg" width="40" title="Python" style="margin:5px;">
-  <img src="/icons/sql.svg" width="40" title="SQL" style="margin:5px;">
-  <img src="/icons/databricks.svg" width="40" title="Databricks" style="margin:5px;">
-  <img src="/icons/css.svg" width="40" title="CSS" style="margin:5px;">
-  <img src="/icons/html.svg" width="40" title="HTML" style="margin:5px;">
-  <img src="/icons/javascript.svg" width="40" title="JavaScript" style="margin:5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
+   <img src="/icons/databricks.svg" width="40" title="Databricks" style="margin:5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="/icons/krita.png" width="40" title="Krita" style="margin:5px;">
   <img src="/icons/figma.svg" width="25" title="Figma" style="margin:5px;">
 </div>
