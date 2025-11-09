@@ -23,13 +23,15 @@ Nas horas vagas, me aventuro como ilustradora, criando personagens e cenários i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="/icons/krita.png" width="40" title="Krita" style="margin:5px;">
   <img src="/icons/figma.svg" width="25" title="Figma" style="margin:5px;">
+  
 </div>
 
 
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=kajcosta&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kajcosta&theme=radical)
-
+<div  style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kajcosta&show_icons=true&theme=radical&card_width=400" alt="Estatísticas GitHub" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajcosta&theme=radical" alt="Streak" height="180">
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kajcosta/kajcosta/output/github-contribution-grid-snake-dark.svg">
